@@ -1,4 +1,7 @@
 # AngularEmailTutorial
+
+Since work just switched companies I don't have my work computer yet. Used macbook pro, VSCode, installed node to do this tutorial.
+
 This was getting familiar with more angular models, directives, factory, controllers etc. This was an email type example. Since I've done a few angular tutorials I already had node installed and was able to use npm for the dependencies.This made adding angular, jquery, angular-routing, and angular-sanitize quite easy.
 
 It was a good walkthrough first creating what the defined angular app will be. We next added the InboxCtrl which ended up being a main controller. Next, a little test controller was added to ensure that node and angular were up and running.
